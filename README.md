@@ -132,10 +132,11 @@ Business Insights & Findings
 
 ## 📝 Note
 
-This repository showcases the project methodology, business findings, 
-and visual outputs. Source notebooks, intermediate files, and datasets 
-are intentionally excluded from the public repository. Project 
-walkthroughs and technical discussions are available upon request.
+This repository showcases the source notebook, project methodology, business findings, 
+and visual outputs. The raw dataset is intentionally excluded from the public repository. 
+Cell outputs were cleared before upload to keep the repository lightweight; all visualizations 
+and key findings are available in the README and plots folder. Project walkthroughs and 
+technical discussions are available upon request.
 
 ---
 
